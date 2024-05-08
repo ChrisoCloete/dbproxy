@@ -1,4 +1,4 @@
-module dbproxy
+module github/chrisocloete/dbproxy
 
 go 1.22
 
